@@ -1,0 +1,18 @@
+nao.imi.ntu@gmail.com
+nao@ntuimi
+
+Access Token:(This new long-lived access token will expire on November 27th, 2015:)
+Link: https://developers.facebook.com/tools/explorer/145634995501895/
+https://developers.facebook.com/tools/debug/
+
+CAAODmX8F9ZCQBAKQVUNfp1ny5Q6sT4IgUza2zbLd4jzNavMIm5r1yZCT32qMHtCT6D9GHKBWAZByLdVXupQkhBjGTl85QgvPVGr6MPc6vZCucGZCO34qUd0VMrX80UZAs7NLNU9z2zVMipcL2H5TZAlLOpq8M6iyqs9EVf5EZApeJBYXG0LlhZB2o
+
+********************************************************************************************************************************************************************
+
+nadine.imi.ntu@gmail.com
+nadine@ntuimi
+Jan-01-1985
+
+This new long-lived access token will expire on August 21st, 2016:
+
+EAAF1ghdq9oEBAICblQbQUBZCTtQH7RYZANYiyXrZBBblNGfcKy4kEg4Qj0tBxUkRKF0XO1bdriht9ZAQ3muSlxHl8sFaZC4MFb44ZBB41AHvz0AQrRd4djnFr0itK08iHqDgcSW5ccXEqoQ7OmZBEvDbvy7LXkZAmOoZD
